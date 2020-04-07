@@ -1,0 +1,7 @@
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\Sequence\Sequence\obj\Debug\Sequence.csprojAssemblyReference.cache
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\Sequence\Sequence\obj\Debug\Sequence.csproj.CoreCompileInputs.cache
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\Sequence\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\Sequence\Sequence\bin\Debug\Sequence.exe
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\Sequence\Sequence\bin\Debug\Sequence.pdb
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\Sequence\Sequence\obj\Debug\Sequence.exe
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\Sequence\Sequence\obj\Debug\Sequence.pdb
