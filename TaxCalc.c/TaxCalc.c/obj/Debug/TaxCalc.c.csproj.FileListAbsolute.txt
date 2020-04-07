@@ -1,0 +1,6 @@
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\TaxCalc.c\TaxCalc.c\obj\Debug\TaxCalc.c.csproj.CoreCompileInputs.cache
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\TaxCalc.c\TaxCalc.c\bin\Debug\TaxCalc.c.exe.config
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\TaxCalc.c\TaxCalc.c\bin\Debug\TaxCalc.c.exe
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\TaxCalc.c\TaxCalc.c\bin\Debug\TaxCalc.c.pdb
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\TaxCalc.c\TaxCalc.c\obj\Debug\TaxCalc.c.exe
+C:\Users\thylo\Documents\2019\Sem1-2019\CAB201\TaxCalc.c\TaxCalc.c\obj\Debug\TaxCalc.c.pdb
